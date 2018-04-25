@@ -1,9 +1,3 @@
-"""
-Francesco Primerano
-fap24
-102
-"""
-
 import time
 import socket
 from urllib.parse import urlparse
